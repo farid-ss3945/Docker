@@ -98,7 +98,7 @@ export default function Login({ onLoginSuccess, onSwitchToRegister }) {
             onClick={onSwitchToRegister}
             className="link-button"
           >
-            Sign up here
+            Sign up hered
           </button>
         </p>
       </div>
